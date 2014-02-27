@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
+    "abdesign.gemspec",
     "lib/abdesign.rb",
     "test/helper.rb",
     "test/test_abdesign.rb"
