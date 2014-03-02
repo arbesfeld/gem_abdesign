@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
+gem "rails", "4.0.3"
+gem "shoulda"
+
 # Declare your gem's dependencies in abdesign.gemspec.
 # Bundler will treat runtime dependencies like base dependencies, and
 # development dependencies will be added by default to the :development group.
